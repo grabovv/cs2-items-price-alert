@@ -1,0 +1,12 @@
+[
+    {
+        "item_name": "AK-47 | Redline (Field-Tested)",
+        "alert_below": 30,
+        "alert_above": 9999
+    },
+    {
+        "item_name": "AWP | Asiimov (Battle-Scarred)",
+        "alert_below": 50,
+        "alert_above": 9999
+    }
+]
